@@ -5,7 +5,7 @@
         http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
    <bean id = "dev" class="com.devSpring.developer">
-   <constructor-arg value="Prashant"></constructor-arg>
+   <constructor-arg value="Renu"></constructor-arg>
    <property name = "Lap" ref = "Lap2"></property>
 
 </bean>
